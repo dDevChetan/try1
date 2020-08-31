@@ -10,5 +10,6 @@ body{
 
 .content{
     color: green;
-    padding: 10%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
