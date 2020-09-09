@@ -15,7 +15,6 @@ pipeline {
 
     stage('Deploy') {
       steps {
-        bat 'echo "headache"'
         bat 'Echo "Deplying"'
       }
     }
